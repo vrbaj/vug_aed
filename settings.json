@@ -1,1 +1,1 @@
-{"send1": "s96;s31;msv?1;", "send2": "adr?;", "send3": "c", "send4": "gfhgfd", "send5": "e", "baud": 4800, "com": 4, "parity": "even", "height": 100.0, "max": 10.0, "min": 2.0, "adr": "31"}
+{"send1": "s96;s31;msv?1;", "send2": "adr?;", "send3": "c", "send4": "gfhgfd", "send5": "e", "baud": 4800, "com": 4, "parity": "even", "height": 4.0, "max": 137624.0, "min": 132574.0, "adr": "31"}
