@@ -250,7 +250,7 @@ class Ui_MainWindow(object):
         self.group_strings.setFont(font)
         self.group_strings.setObjectName("group_strings")
         self.gridLayoutWidget = QtWidgets.QWidget(self.group_strings)
-        self.gridLayoutWidget.setGeometry(QtCore.QRect(10, 30, 331, 381))
+        self.gridLayoutWidget.setGeometry(QtCore.QRect(10, 30, 331, 221))
         self.gridLayoutWidget.setObjectName("gridLayoutWidget")
         self.gridLayout = QtWidgets.QGridLayout(self.gridLayoutWidget)
         self.gridLayout.setContentsMargins(0, 0, 0, 0)
